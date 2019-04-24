@@ -1,2 +1,1 @@
-# gridsome-netlify
-Created with CodeSandbox
+# Gridsome starter for codesandbox
